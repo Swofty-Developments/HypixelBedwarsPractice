@@ -1,0 +1,22 @@
+name: HypixelBedwarsPractice
+version: ${project.version}
+main: net.swofty.hypixelbedwarspractice.Loader
+
+commands:
+  commands:
+    description: Placeholder
+
+  lastlogin:
+    description: Placeholder
+
+  start:
+    description: Placeholder
+
+  bypassspawnprot:
+    description: Placeholder
+
+  simulateendgame:
+    description: Placeholder
+
+  history:
+    description: Placeholder
